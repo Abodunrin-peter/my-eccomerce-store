@@ -75,7 +75,7 @@
 }
 .ninth{
     background-color: rgb(238, 8, 85);
-    background-image: url(image/Ama.jpg);
+    background-image: url(Ama.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size:contain;
@@ -83,7 +83,7 @@
     padding: 5px;
 }
 .tenth{
-    background-image: url(image/Pink4.jpg);
+    background-image: url(Pink4.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: contain;

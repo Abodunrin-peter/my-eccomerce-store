@@ -95,6 +95,8 @@
     color: blue;
     width: 50%;
     margin-left: 25%;
+    flex-wrap: wrap;
+    align-items: center;
 }
 .p{
     background-color: rgb(253, 85, 85);
@@ -118,14 +120,27 @@
 }
 form{
     margin-left: 25%;
+
 }
 form input{
-    width: 60%;
-    height: 50px;
-    border-radius: 10px;
+    width: 50%;
+    height: 30px;
+    margin-left: 8%;
+    border-radius: 20px;
+    border-style: dotted;
     border-width: thick;
-    border-style: dashed;
     border-color: rgb(238, 8, 85);
+} 
+.butto{
+    width: 53%;
+    height: 35px;
+    margin-left: 8%;
+    border-radius: 20px;
+    border: none;
+    border-style: double;
+    border-width: thick;
+    border-color: rgb(238, 8, 85);
+    background-color: rgb(255, 4, 88);
 }
 .tt{
     border-radius: 10px;
@@ -154,6 +169,11 @@ a:hover{
     background-color: rgb(253, 85, 85);
     color: aliceblue;
     border-style: thick;
+}
+.sp{
+    text-align: center;
+    color: blue;
+    margin-right: 36%;
 }
 @media
  (max-width: 700px) {

@@ -8,7 +8,7 @@
     gap: 10px;
 }
 .second{
-    background-color: rgb(238, 8, 85);
+    background-color: rgb(40, 90, 114);
     padding: 4px;
 }
 .third{
@@ -17,14 +17,14 @@
     border-radius: 50px;
 }
 .fourth{
-    background-color:rgb(253, 85, 85);
+    background-color:#000000;
     padding: 4px;
 }
 .fifth{
     border-radius: 300px;
     border-style: dotted;
     border-width: thick;
-    border-color: rgb(255, 4, 88)
+    border-color: #000000
 }
 .sixth{
     color:blue;
@@ -40,7 +40,7 @@
 }
 .butt{
     padding: 15px;
-    background-color:rgb(253, 85, 85);
+    background-color:#000000;
     border: none;
     color: aliceblue;
 }
@@ -70,11 +70,11 @@
     color: blue;
 }
 .eight{
-    background-color:rgb(238, 8, 85);
-    padding: 15px;
+    background-color:rgb(165, 165, 243);
+    padding:15px;
 }
 .ninth{
-    background-color: rgb(238, 8, 85);
+    background-color: rgb(40, 90, 114);
     background-image: url(Ama.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -99,7 +99,7 @@
     align-items: center;
 }
 .p{
-    background-color: rgb(253, 85, 85);
+    background-color: #000000;
     padding: 20px;
 }
 .b{
@@ -112,7 +112,7 @@
     border-radius: 300px;
     border-width: thick;
     border-style: dashed;
-    border-color: rgb(255, 4, 88)
+    border-color: rgb(40, 90, 114);
 }
 .l{
     text-decoration: none;
@@ -129,7 +129,7 @@ form input{
     border-radius: 20px;
     border-style: dotted;
     border-width: thick;
-    border-color: rgb(238, 8, 85);
+    border-color: rgb(40, 90, 114);
 } 
 .butto{
     width: 53%;
@@ -139,14 +139,14 @@ form input{
     border: none;
     border-style: double;
     border-width: thick;
-    border-color: rgb(238, 8, 85);
-    background-color: rgb(255, 4, 88);
+    border-color: rgb(165, 165, 243);
+    background-color: rgb(40, 90, 114);
 }
 .tt{
     border-radius: 10px;
     border-width: thick;
     border-style: dashed;
-    border-color: rgb(238, 8, 85);
+    border-color: rgb(40, 90, 114);
 }
 .i{
     width: 62%;
@@ -166,13 +166,13 @@ a:hover{
     padding: 20px;
     border: none;
     border-radius: 7px;
-    background-color: rgb(253, 85, 85);
+    background-color: rgb(40, 90, 114);
     color: aliceblue;
     border-style: thick;
 }
 .sp{
     text-align: center;
-    color: blue;
+    color: aliceblue;
     margin-right: 36%;
 }
 @media

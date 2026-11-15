@@ -70,7 +70,7 @@
     color: blue;
 }
 .eight{
-    background-color:rgb(165, 165, 243);
+    background-color:rgb(40, 90, 114);
     padding:15px;
 }
 .ninth{
@@ -139,7 +139,7 @@ form input{
     border: none;
     border-style: double;
     border-width: thick;
-    border-color: rgb(165, 165, 243);
+    border-color: rgb(40, 90, 114);
     background-color: rgb(40, 90, 114);
 }
 .tt{
